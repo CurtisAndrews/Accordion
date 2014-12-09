@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
+}
+
+.accordion {
+    margin: 50px auto 0;
+    padding: 10px;
+    width: 320px;
+    border: 1px solid #cccccc;
+}
+
+.accordion-hd {
+    margin-bottom: 20px;
+}
+
+.accordion-hd-trigger {
+    float: right;
+    border: 1px solid #999999;
+    padding: 2px;
+}
+
+.accordion-hd-trigger:hover { cursor: pointer; }
+
+.accordion-bd {
+    text-align: center;
+}
